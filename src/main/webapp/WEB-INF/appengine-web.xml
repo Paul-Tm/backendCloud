@@ -20,6 +20,6 @@
 	
 	<env-variables>
 		<env-var name="ENDPOINTS_SERVICE_NAME"
-			value="petitions-31032021.appspot.com" />
+			value="petitions-352013.appspot.com" />
 	</env-variables>
 </appengine-web-app>

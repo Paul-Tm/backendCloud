@@ -7,7 +7,7 @@
 	<version>0.1.0-SNAPSHOT</version>
 
 	<groupId>com.miage</groupId>
-	<artifactId>petition_miage</artifactId>
+	<artifactId>BackCloud</artifactId>
 
 	<!-- The parent pom defines common style checks and testing strategies for 
 		our samples. Removing or replacing it should not effect the execution of 
@@ -26,7 +26,7 @@
 
 		<endpoints.framework.version>2.2.1</endpoints.framework.version>
 		<endpoints.management.version>1.0.12</endpoints.management.version>
-		<endpoints.project.id>petitions-31032021</endpoints.project.id>
+		<endpoints.project.id>petitions-352013</endpoints.project.id>
 
 		<checkstyle.skip>true</checkstyle.skip>
 	</properties>

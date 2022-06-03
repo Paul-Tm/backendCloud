@@ -36,8 +36,8 @@ import com.google.appengine.api.datastore.QueryResultList;
 		audiences = "783652474514-hsrkuk75ikl453pu5fq2nf0m43q3qcsi.apps.googleusercontent.com", //
 		clientIds = "783652474514-hsrkuk75ikl453pu5fq2nf0m43q3qcsi.apps.googleusercontent.com", //
 		namespace = @ApiNamespace(//
-				ownerDomain = "pitchounous.miage.com", //
-				ownerName = "Les pitchounous", //
+				ownerDomain = "LIAMPAULANGE.miage.com", //
+				ownerName = "LPAMiage", //
 				packagePath = "") //
 )
 public class Endpoint {
